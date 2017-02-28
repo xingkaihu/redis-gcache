@@ -15,7 +15,7 @@ import com.keifer.core.cache.utils.MqConstant.SpiName;
 import com.keifer.core.extension.ExtensionLoaderUtils;
 
 /**
- * Application context based on configurations provided by hfmbank application.
+ * bean容器
  */
 public class DefaultInjectContext {
 
